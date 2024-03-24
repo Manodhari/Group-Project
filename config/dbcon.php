@@ -5,7 +5,7 @@ require __DIR__ . '/../vendor/autoload.php';
 use Kreait\Firebase\Factory;
 
 $firebase = (new Factory)
-    ->withDatabaseUri('https://parkingsysystem-e29b4-default-rtdb.firebaseio.com/');
+    ->withDatabaseUri('https://parkingsystem-46aec-default-rtdb.firebaseio.com/');
 
 $database = $firebase->createDatabase(); // Use createDatabase() method to create the database instance
 

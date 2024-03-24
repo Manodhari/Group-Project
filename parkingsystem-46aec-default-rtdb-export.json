@@ -1,0 +1,19 @@
+{
+  "SLOT 1 Status": "AVAILABLE",
+  "SLOT 2 Status": "AVAILABLE",
+  "SLOT 3 Status": "AVAILABLE",
+  "SLOT 4 Status": "AVAILABLE",
+  "SLOT 5 Status": "AVAILABLE",
+  "User_No_1": {
+    "Status": "STARTED"
+  },
+  "User_No_2": {
+    "Status": "STARTED"
+  },
+  "User_No_3": {
+    "Status": "STARTED"
+  },
+  "User_No_4": {
+    "Status": "STARTED"
+  }
+}

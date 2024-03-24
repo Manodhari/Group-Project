@@ -104,15 +104,21 @@ if (!isset($_SESSION['user_id'])) {
 <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
 <script>
-    var firebaseConfig = {
-        apiKey: "YOUR_API_KEY",
-        authDomain: "parkingsysystem-e29b4.firebaseapp.com",
-        databaseURL: "https://parkingsysystem-e29b4-default-rtdb.firebaseio.com",
-        projectId: "parkingsysystem-e29b4",
-        storageBucket: "parkingsysystem-e29b4.appspot.com",
-        messagingSenderId: "232519263309",
-        appId: "1:232519263309:web:c1c014eb77bbe0e5e62804"
-    };
+var firebaseConfig = {
+    apiKey: "AIzaSyBdmwjLd21IhrOJN6ngHbw5BRSpun_MUK0",
+
+    authDomain: "parkingsystem-46aec.firebaseapp.com",
+
+    projectId: "parkingsystem-46aec",
+
+    storageBucket: "parkingsystem-46aec.appspot.com",
+
+    messagingSenderId: "1055260995905",
+
+    appId: "1:1055260995905:web:36c68085802b81b5b631c0"
+
+};
+
 
     firebase.initializeApp(firebaseConfig);
 
