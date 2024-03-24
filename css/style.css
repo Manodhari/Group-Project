@@ -1,0 +1,51 @@
+
+
+.btn{
+    width: 170px;
+    height: 90px;
+    background-color: black !important;
+
+}
+
+.btn-success{
+    background-color: rgb(189, 2, 2) !important;
+}
+
+.btn-light{
+    width: 40px;
+    background-color: rgb(255, 255, 255) !important;
+    margin: none !important;
+    border-radius: 0px !important;
+    border: none !important;
+    height: 100px !important;
+    
+    
+}
+
+.btn-block{
+    height: 40px;
+    background-color: rgb(255, 255, 255) !important;
+    width: 1%;
+    color: gray;
+    
+
+}
+
+@media (max-width: 768px) {
+
+    .fas{
+      width: 100%;
+      font-size: 12px;
+    }
+
+    .btn-light{
+        width: 30px;
+        background-color: rgb(255, 255, 255) !important;
+        margin: none !important;
+        border-radius: 0px !important;
+        border: none !important;
+        height: 100px !important;
+        
+        
+    }
+}
