@@ -1,5 +1,23 @@
+.login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  }
+  .login-body {
+    background-image: url('https://wallpaper-house.com/data/out/7/wallpaper2you_160956.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+  }
 
-
+.btn-block{
+  width: 146px;
+  height: 40px;
+}
 .btn{
     width: 170px;
     height: 90px;
@@ -29,6 +47,9 @@
     color: gray;
     
 
+}
+.bg-body-nav{
+  background-color: rgb(189, 2, 2) !important;
 }
 
 @media (max-width: 768px) {
